@@ -1,4 +1,4 @@
-**# API Sistema Hospitalar
+API Sistema Hospitalar
 
 API REST desenvolvida para simular o gerenciamento de um sistema hospitalar fictício, aplicando conceitos de desenvolvimento de APIs, operações CRUD e organização de projetos com Spring Boot.
 
@@ -54,7 +54,7 @@ Antes de executar o projeto, certifique-se de possuir instalado:
 ### 1. Clone o repositório
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone <git clone <https://github.com/RafaelNagel/api-spring.git>
 ```
 
 ### 2. Configure o banco de dados
