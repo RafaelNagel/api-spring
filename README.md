@@ -54,7 +54,7 @@ Antes de executar o projeto, certifique-se de possuir instalado:
 ### 1. Clone o repositório
 
 ```bash
-git clone <git clone <https://github.com/RafaelNagel/api-spring.git>
+git clone <https://github.com/RafaelNagel/api-spring.git>
 ```
 
 ### 2. Configure o banco de dados
