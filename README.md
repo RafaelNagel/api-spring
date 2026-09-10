@@ -119,4 +119,3 @@ Algumas possíveis evoluções para o projeto incluem:
 **Rafael Nagel de Souza**
 
 Estudante de Ciência da Computação e desenvolvedor de software em formação, com foco em desenvolvimento backend utilizando **Java e Spring Boot**.
-**
